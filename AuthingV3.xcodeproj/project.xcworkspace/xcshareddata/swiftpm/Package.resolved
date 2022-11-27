@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "authing-ios-sdk-v3",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Authing/authing-ios-sdk-v3",
+      "state" : {
+        "revision" : "ecd47ed22e1b5109f7aa0e09bf2cd053fc42a19e",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
